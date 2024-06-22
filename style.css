@@ -14,7 +14,7 @@ body {
 .header {
   width: 100%;
   height: 100vh;
-  background-image: url(assets./pexels-mariana-kurnyk-1775043.jpg);
+  background-image: url(./assets/pexels-mariana-kurnyk-1775043.jpg);
   background-position: center, center;
   background-size: cover;
 }
@@ -117,7 +117,7 @@ hr {
 .banner {
   width: 100%;
   height: 500px;
-  background-image: url(assets./banner.jpg);
+  background-image: url(./assets/banner.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
